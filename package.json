@@ -1,0 +1,30 @@
+{
+  "name": "create-bad-app",
+  "version": "1.0.0",
+  "description": "Set up a bad project by running one command.",
+  "main": "index.js",
+  "bin": {
+    "create-bad-app": "./index.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FireStreaker2/create-bad-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cli"
+  ],
+  "author": "FireStreaker2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FireStreaker2/create-bad-app/issues"
+  },
+  "homepage": "https://github.com/FireStreaker2/create-bad-app#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}

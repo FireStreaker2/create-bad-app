@@ -1,2 +1,2 @@
-# create-bad-app
- Set up a bad project by running one command.
+# undefined
+This project was generated using <a href="https://github.com/FireStreaker2/create-bad-app">create-bad-app</a>.
